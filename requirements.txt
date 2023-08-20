@@ -1,3 +1,0 @@
-Modules required to install:
-	1. Tkinter
-	2. import messagebox from Tkinter
